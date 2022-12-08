@@ -1,0 +1,17 @@
+body {
+  font-size: 28px;
+}
+
+
+div{
+  margin-top: 130px;
+}
+
+#linha-vertical {
+    height: 800px;
+    border-right: 150px solid red;
+    float: right;
+
+
+
+}
